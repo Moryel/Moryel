@@ -148,10 +148,7 @@ caveman@moryel:~$ uptime
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
 ║   👁️  Many eyeball see Moryel cave                ║
-║   🦴  Me collect bones (commit) every sun          ║
-║   🔥  Fire never go out (streak active)            ║
-║   🏆  Me best hunter in JavaScript forest          ║
-║                                                    ║
+║   🦴  Me collect bones (commit) every sun         ║
 ╚════════════════════════════════════════════════════╝
 ```
 
