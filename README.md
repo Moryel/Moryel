@@ -131,7 +131,7 @@ caveman@moryel:~$ uptime
 </div>
 
 ```
-      🔥                                               🔥
+      🔥                                            🔥
      /||\         END OF HUNTING TOOLS              /||\
     / || \           (Me Strong)                   / || \
    🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
