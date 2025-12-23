@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- BANNER IMAGE PLACEHOLDER -->
-<!-- Generate using: "Wide 1200x300 banner: Caveman furiously coding on glowing stone tablet with bone keyboard, cave walls covered in glowing HTML/CSS cave paintings, fire torches, prehistoric meets cyberpunk aesthetic" -->
-![Caveman Coder Banner](https://via.placeholder.com/1200x300/282828/EBDBB2?text=🦴+MORYEL+CAVE+OF+CODE+🔥)
+<!-- Caveman Coder Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,10,12&height=250&section=header&text=MORYEL%20CAVE%20OF%20CODE&fontSize=50&fontColor=D79921&animation=twinkling&fontAlignY=35&desc=Where%20Caveman%20Hit%20Rock%20Make%20Magic&descSize=20&descAlignY=55&descAlign=50)
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -148,7 +147,7 @@ caveman@moryel:~$ uptime
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
 ║   👁️  Many eyeball see Moryel cave                ║
-║   🦴  Me collect bones (commit) every sun         ║
+║   🦴  Me collect bones (commit) every sun          ║
 ╚════════════════════════════════════════════════════╝
 ```
 
