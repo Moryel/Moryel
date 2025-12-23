@@ -1,87 +1,205 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Linux+SysAdmin;Network+Architect;Frontend+Developer;AI+Developer)](https://git.io/typing-svg)
+<!-- BANNER IMAGE PLACEHOLDER -->
+<!-- Generate using: "Wide 1200x300 banner: Caveman furiously coding on glowing stone tablet with bone keyboard, cave walls covered in glowing HTML/CSS cave paintings, fire torches, prehistoric meets cyberpunk aesthetic" -->
+![Caveman Coder Banner](https://via.placeholder.com/1200x300/282828/EBDBB2?text=🦴+MORYEL+CAVE+OF+CODE+🔥)
 
-<!-- Retro Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,16,20&height=200&section=header&text=Welcome%20to%20the%20Matrix&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=35)
-
----
-
-## 🖥️ System Status
-
-```bash
-root@user:~$ current-work: "Building an Uber-like Mobile App"
-root@user:~$ learning: "Python & AI Models"
-root@user:~$ contact: "yukselozge11@gmail.com"
-root@user:~$ status: "Coding in the Matrix..."
-root@user:~$ uptime: "24/7 | Always Learning"
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ███╗   ███╗ ██████╗ ██████╗ ██╗   ██╗███████╗██╗            ║
+║  ████╗ ████║██╔═══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██║            ║
+║  ██╔████╔██║██║   ██║██████╔╝ ╚████╔╝ █████╗  ██║            ║
+║  ██║╚██╔╝██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══╝  ██║            ║
+║  ██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   ███████╗███████╗       ║
+║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝       ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=D79921&center=true&vCenter=true&width=900&lines=Me+Hit+Rock+Make+Website+🪨;Me+Tame+Fire+Build+Server+🔥;Me+Draw+Bird+Code+Flutter+🦅;Me+Train+Snake+Do+AI+Magic+🐍)](https://git.io/typing-svg)
 
-## 💻 Tech Stack
+</div>
 
-### 🔤 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### ⚙️ Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🗄️ Data & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
-
----
-
-## 🌐 Connect With Me
-
-```bash
-root@user:~$ echo "Let's connect!"
-📧 Email: yukselozge11@gmail.com
-💼 GitHub: github.com/Moryel
+```
+     🔥                                                    🔥
+    /||\         WELCOME TO MORYEL CAVE                 /||\
+   / || \        WHERE CAVEMAN CODE MAGIC HAPPEN       / || \
+  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
 ```
 
----
+## 🦴 ABOUT MORYEL (Me Tell Story)
+
+```bash
+caveman@moryel:~$ whoami
+> Moryel. Me strongest coder in tribe.
+
+caveman@moryel:~$ current_hunt
+> Me build magic moving-picture-cart (Uber app but with mammoths)
+> Many button. Much swipe. Very transport.
+
+caveman@moryel:~$ learning_new_magic
+> Me learn Python snake language 🐍
+> Me ask Oracle (AI spirits) for wisdom
+> Oracle say: "pip install brain-upgrade"
+
+caveman@moryel:~$ special_power
+> Me turn shiny rocks (servers) into thinking machines
+> Me make pictures move on glowing cave walls (screens)
+> Me speak 11 sacred tongues (programming languages)
+
+caveman@moryel:~$ tribe_contact
+> 📧 Send smoke signal: yukselozge11@gmail.com
+> 🏛️ Visit cave: github.com/Moryel
+
+caveman@moryel:~$ uptime
+> Sun come up, Moryel code. Sun go down, Moryel still code.
+> Sleep is for lesser cavemen. Coffee is liquid wisdom.
+```
+
+```
+    🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+    ██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██
+    ██  MORYEL HUNTING TOOLS (Me Collection)        ██
+    ██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██
+    🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+```
+
+### 🪨 Sacred Runes (Languages Me Carve on Stone)
+<div align="center">
+
+![Python](https://img.shields.io/badge/🐍_Python-D79921?style=for-the-badge&logo=python&logoColor=282828)
+![C](https://img.shields.io/badge/⚔️_C-98971A?style=for-the-badge&logo=c&logoColor=282828)
+![C++](https://img.shields.io/badge/⚔️_C++-98971A?style=for-the-badge&logo=cplusplus&logoColor=282828)
+![C#](https://img.shields.io/badge/⚔️_C%23-98971A?style=for-the-badge&logo=csharp&logoColor=282828)
+![PHP](https://img.shields.io/badge/🦣_PHP-B57614?style=for-the-badge&logo=php&logoColor=282828)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-D79921?style=for-the-badge&logo=javascript&logoColor=282828)
+![TypeScript](https://img.shields.io/badge/⚡_TypeScript-458588?style=for-the-badge&logo=typescript&logoColor=EBDBB2)
+![Dart](https://img.shields.io/badge/🦅_Dart-458588?style=for-the-badge&logo=dart&logoColor=EBDBB2)
+![Kotlin](https://img.shields.io/badge/🗿_Kotlin-B16286?style=for-the-badge&logo=kotlin&logoColor=EBDBB2)
+![HTML5](https://img.shields.io/badge/🔥_HTML5-CC241D?style=for-the-badge&logo=html5&logoColor=EBDBB2)
+![CSS3](https://img.shields.io/badge/🎨_CSS3-458588?style=for-the-badge&logo=css3&logoColor=EBDBB2)
+
+</div>
+
+```
+    🦴═══════════════════════════════════════════════════🦴
+```
+
+### 📱 Cave Wall Painters (Frontend & Mobile Magic)
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/🦋_Flutter-458588?style=for-the-badge&logo=flutter&logoColor=EBDBB2)
+![React](https://img.shields.io/badge/⚛️_React-689D6A?style=for-the-badge&logo=react&logoColor=282828)
+![Bootstrap](https://img.shields.io/badge/🎯_Bootstrap-B16286?style=for-the-badge&logo=bootstrap&logoColor=EBDBB2)
+![Android](https://img.shields.io/badge/🤖_Android-98971A?style=for-the-badge&logo=android&logoColor=282828)
+
+</div>
+
+```
+    🦴═══════════════════════════════════════════════════🦴
+```
+
+### ⚙️ Big Rock Movers (Backend & Cloud Shamans)
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/🌿_Node.js-98971A?style=for-the-badge&logo=nodedotjs&logoColor=282828)
+![.NET](https://img.shields.io/badge/🕸️_.NET-B16286?style=for-the-badge&logo=dotnet&logoColor=EBDBB2)
+![Django](https://img.shields.io/badge/🐍_Django-689D6A?style=for-the-badge&logo=django&logoColor=282828)
+![AWS](https://img.shields.io/badge/☁️_AWS-D79921?style=for-the-badge&logo=amazonaws&logoColor=282828)
+![Azure](https://img.shields.io/badge/☁️_Azure-458588?style=for-the-badge&logo=microsoftazure&logoColor=EBDBB2)
+![Google Cloud](https://img.shields.io/badge/☁️_GCloud-D79921?style=for-the-badge&logo=googlecloud&logoColor=282828)
+![Firebase](https://img.shields.io/badge/🔥_Firebase-CC241D?style=for-the-badge&logo=firebase&logoColor=EBDBB2)
+![Docker](https://img.shields.io/badge/🐳_Docker-458588?style=for-the-badge&logo=docker&logoColor=EBDBB2)
+![Linux](https://img.shields.io/badge/🐧_Linux-D79921?style=for-the-badge&logo=linux&logoColor=282828)
+
+</div>
+
+```
+    🦴═══════════════════════════════════════════════════🦴
+```
+
+### 🗄️ Treasure Keepers (Data & Sacred Scrolls)
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/🍃_MongoDB-98971A?style=for-the-badge&logo=mongodb&logoColor=282828)
+![MySQL](https://img.shields.io/badge/🐬_MySQL-458588?style=for-the-badge&logo=mysql&logoColor=EBDBB2)
+![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-458588?style=for-the-badge&logo=postgresql&logoColor=EBDBB2)
+![Git](https://img.shields.io/badge/🌿_Git-CC241D?style=for-the-badge&logo=git&logoColor=EBDBB2)
+![Jupyter](https://img.shields.io/badge/📜_Jupyter-D79921?style=for-the-badge&logo=jupyter&logoColor=282828)
+![Figma](https://img.shields.io/badge/🎨_Figma-B16286?style=for-the-badge&logo=figma&logoColor=EBDBB2)
+![Adobe XD](https://img.shields.io/badge/🎨_XD-B16286?style=for-the-badge&logo=adobexd&logoColor=EBDBB2)
+![Photoshop](https://img.shields.io/badge/🖌️_Photoshop-458588?style=for-the-badge&logo=adobephotoshop&logoColor=EBDBB2)
+
+</div>
+
+```
+      🔥                                               🔥
+     /||\         END OF HUNTING TOOLS              /||\
+    / || \           (Me Strong)                   / || \
+   🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
+```
+
+## � Tribal Stats (How Good Moryel Hunt)
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Moryel&color=00FF00&style=for-the-badge)
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+![Profile Views](https://komarev.com/ghpvc/?username=Moryel&color=D79921&style=for-the-badge&label=TRIBE+VISITORS)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,16,20&height=100&section=footer)
+```
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║   👁️  Many eyeball see Moryel cave                ║
+║   🦴  Me collect bones (commit) every sun          ║
+║   🔥  Fire never go out (streak active)            ║
+║   🏆  Me best hunter in JavaScript forest          ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+### 🪨 Caveman Wisdom
+
+*"Me no need fancy IDE. Me carve code on stone with pointy stick.*  
+*If code break, me hit with bigger rock until work."*  
+**— Ancient Proverb of Moryel Tribe**
+
+</div>
+
+```
+    🦴═══════════════════════════════════════════════════🦴
+```
+
+## 📨 Send Smoke Signal (Contact Moryel)
+
+<div align="center">
+
+```bash
+caveman@moryel:~$ ./contact_methods.sh
+
+[🔥] Fire Method (Email):
+    ╰─> yukselozge11@gmail.com
+    
+[🏛️] Visit Cave (GitHub):
+    ╰─> github.com/Moryel
+    
+[🦅] Send Bird (Contributions):
+    ╰─> Open for collaboration!
+    ╰─> Me help you build. You bring mammoth meat.
+
+caveman@moryel:~$ echo "Me open to job offers. Pay in shiny rocks accepted."
+```
+
+</div>
+
+```
+     🔥                                                    🔥
+    /||\              THANK FOR VISIT               /||\
+   / || \          MAY YOUR CODE COMPILE            / || \
+  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
+```
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,10,12&height=100&section=footer)
+
+**🦴 Cave Last Updated: When Sun in Sky 🔥**
 
 </div>
