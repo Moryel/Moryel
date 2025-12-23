@@ -62,33 +62,7 @@ root@user:~$ uptime: "24/7 | Always Learning"
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&ring_color=00FF00"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## � Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=C9D1D9&area=true&area_color=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -97,15 +71,14 @@ root@user:~$ uptime: "24/7 | Always Learning"
 ```bash
 root@user:~$ echo "Let's connect!"
 📧 Email: yukselozge11@gmail.com
-💼 Portfolio: [Your Portfolio URL]
-🔗 LinkedIn: [Your LinkedIn URL]
+💼 GitHub: github.com/Moryel
 ```
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF00&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Moryel&color=00FF00&style=for-the-badge)
 
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
