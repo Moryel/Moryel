@@ -137,7 +137,7 @@ caveman@moryel:~$ uptime
    🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
 ```
 
-## � Tribal Stats (How Good Moryel Hunt)
+## 👀 Tribal Stats (How Good Moryel Hunt)
 
 <div align="center">
 
