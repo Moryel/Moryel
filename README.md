@@ -186,8 +186,8 @@ caveman@moryel:~$ echo "Me open to job offers. Pay in shiny rocks accepted."
 </div>
 
 ```
-     🔥                                                    🔥
-    /||\              THANK FOR VISIT               /||\
+     🔥                                              🔥
+    /||\              THANK FOR VISIT                /||\
    / || \          MAY YOUR CODE COMPILE            / || \
   🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
 ```
