@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1e,100:3a3a3c&height=180&section=header&text=Y%C3%BCksel%20%C3%96zge&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Native%20macOS%20tools%20%C2%B7%20Touch%20Bar%20tinkerer&descSize=16&descAlignY=60" width="100%" alt="Yüksel Özge">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1e,100:3a3a3c&height=180&section=header&text=Y%C3%BCksel%20%C3%96zge&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Hardware%20%C2%B7%20C%2B%2B%20%C2%B7%20Native%20tools&descSize=16&descAlignY=60" width="100%" alt="Yüksel Özge">
 
-I build small, native tools that make everyday things a bit nicer, mostly for macOS.<br>
-Lately that means the MacBook Pro Touch Bar: giving it the update Apple never shipped.
+My main interests are **hardware** and **C++**, which I'm still learning.<br>
+I like building small, native tools that make everyday things a bit nicer, on any platform.<br>
+My two latest projects happen to be for macOS: giving the MacBook Pro Touch Bar the update Apple never shipped.
 
 </div>
 
@@ -53,6 +54,7 @@ sound bar tinted with the album cover's colors. A small standalone menu bar app.
 ## 🛠 Tools I use
 
 <p>
+<img src="https://img.shields.io/badge/C++_(learning)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ (learning)">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
