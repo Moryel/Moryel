@@ -1,201 +1,72 @@
 <div align="center">
 
-<!-- Caveman Coder Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,10,12&height=250&section=header&text=MORYEL%20CAVE%20OF%20CODE&fontSize=50&fontColor=D79921&animation=twinkling&fontAlignY=35&desc=Where%20Caveman%20Hit%20Rock%20Make%20Magic&descSize=20&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1e,100:3a3a3c&height=180&section=header&text=Y%C3%BCksel%20%C3%96zge&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Native%20macOS%20tools%20%C2%B7%20Touch%20Bar%20tinkerer&descSize=16&descAlignY=60" width="100%" alt="Yüksel Özge">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  ███╗   ███╗ ██████╗ ██████╗ ██╗   ██╗███████╗██╗            ║
-║  ████╗ ████║██╔═══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██║            ║
-║  ██╔████╔██║██║   ██║██████╔╝ ╚████╔╝ █████╗  ██║            ║
-║  ██║╚██╔╝██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══╝  ██║            ║
-║  ██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   ███████╗███████╗       ║
-║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=D79921&center=true&vCenter=true&width=900&lines=Me+Hit+Rock+Make+Website+🪨;Me+Tame+Fire+Build+Server+🔥;Me+Draw+Bird+Code+Flutter+🦅;Me+Train+Snake+Do+AI+Magic+🐍)](https://git.io/typing-svg)
+I build small, native tools that make everyday things a bit nicer, mostly for macOS.<br>
+Lately that means the MacBook Pro Touch Bar: giving it the update Apple never shipped.
 
 </div>
 
-```
-     🔥                                                 🔥
-    /||\         WELCOME TO MORYEL CAVE                 /||\
-   / || \        WHERE CAVEMAN CODE MAGIC HAPPEN       / || \
-  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
-```
+---
 
-## 🦴 ABOUT MORYEL (Me Tell Story)
+## ✨ Projects
 
-```bash
-caveman@moryel:~$ whoami
-> Moryel. Me strongest coder in tribe.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-caveman@moryel:~$ current_hunt
-> Me build magic moving-picture-cart (Uber app but with mammoths)
-> Many button. Much swipe. Very transport.
+### [GlassBar](https://github.com/Moryel/glass-bar)
+A native replacement for the Touch Bar with a Liquid Glass look: app-specific buttons,
+an expanded Control Strip, sliders, F keys, emoji, typing suggestions and a Siri glass
+drop that reacts to your voice.
 
-caveman@moryel:~$ learning_new_magic
-> Me learn Python snake language 🐍
-> Me ask Oracle (AI spirits) for wisdom
-> Oracle say: "pip install brain-upgrade"
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_14+-000000?style=flat-square&logo=apple&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Moryel/glass-bar?style=flat-square&color=555)
 
-caveman@moryel:~$ special_power
-> Me turn shiny rocks (servers) into thinking machines
-> Me make pictures move on glowing cave walls (screens)
-> Me speak 11 sacred tongues (programming languages)
+</td>
+<td width="50%" valign="top">
 
-caveman@moryel:~$ tribe_contact
-> 📧 Send smoke signal: yukselozge11@gmail.com
-> 🏛️ Visit cave: github.com/Moryel
+### [Spotiw](https://github.com/Moryel/spotiw)
+Spotify on the Touch Bar: album art, playback controls, a draggable progress bar and a
+sound bar tinted with the album cover's colors. A small standalone menu bar app.
 
-caveman@moryel:~$ uptime
-> Sun come up, Moryel code. Sun go down, Moryel still code.
-> Sleep is for lesser cavemen. Coffee is liquid wisdom.
-```
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_12+-000000?style=flat-square&logo=apple&logoColor=white)
+[![Download](https://img.shields.io/badge/Download-Spotiw.zip-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://github.com/Moryel/spotiw/releases/latest/download/Spotiw.zip)
 
-```
-    🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-    ██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██
-    ██  MORYEL HUNTING TOOLS (Me Collection)        ██
-    ██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██
-    🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-```
+</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Moryel/glass-bar/main/gorseller/siri-cubuk.gif" width="100%" alt="GlassBar on the Touch Bar"></td>
+<td><img src="https://raw.githubusercontent.com/Moryel/spotiw/main/images/demo.gif" width="100%" alt="Spotiw on the Touch Bar"></td>
+</tr>
+</table>
 
-### 🪨 Sacred Runes (Languages Me Carve on Stone)
-<div align="center">
+### 🧪 Smaller experiments
 
-![Python](https://img.shields.io/badge/🐍_Python-D79921?style=for-the-badge&logo=python&logoColor=282828)
-![C](https://img.shields.io/badge/⚔️_C-98971A?style=for-the-badge&logo=c&logoColor=282828)
-![C++](https://img.shields.io/badge/⚔️_C++-98971A?style=for-the-badge&logo=cplusplus&logoColor=282828)
-![C#](https://img.shields.io/badge/⚔️_C%23-98971A?style=for-the-badge&logo=csharp&logoColor=282828)
-![PHP](https://img.shields.io/badge/🦣_PHP-B57614?style=for-the-badge&logo=php&logoColor=282828)
-![JavaScript](https://img.shields.io/badge/⚡_JavaScript-D79921?style=for-the-badge&logo=javascript&logoColor=282828)
-![TypeScript](https://img.shields.io/badge/⚡_TypeScript-458588?style=for-the-badge&logo=typescript&logoColor=EBDBB2)
-![Dart](https://img.shields.io/badge/🦅_Dart-458588?style=for-the-badge&logo=dart&logoColor=EBDBB2)
-![Kotlin](https://img.shields.io/badge/🗿_Kotlin-B16286?style=for-the-badge&logo=kotlin&logoColor=EBDBB2)
-![HTML5](https://img.shields.io/badge/🔥_HTML5-CC241D?style=for-the-badge&logo=html5&logoColor=EBDBB2)
-![CSS3](https://img.shields.io/badge/🎨_CSS3-458588?style=for-the-badge&logo=css3&logoColor=EBDBB2)
+| | |
+|---|---|
+| **[MoodSync](https://github.com/Moryel/MoodSync)** | Syncs your PC's RGB lighting with the colors on your screen, via OpenRGB. · *Python* |
+| **[Hand-Volume-Control](https://github.com/Moryel/Hand-Volume-Control)** | Control volume and play/pause with hand gestures from your webcam. · *Python · OpenCV · MediaPipe* |
 
-</div>
+## 🛠 Tools I use
 
-```
-    🦴═══════════════════════════════════════════════════🦴
-```
+<p>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-### 📱 Cave Wall Painters (Frontend & Mobile Magic)
-<div align="center">
+## 📫 Contact
 
-![Flutter](https://img.shields.io/badge/🦋_Flutter-458588?style=for-the-badge&logo=flutter&logoColor=EBDBB2)
-![React](https://img.shields.io/badge/⚛️_React-689D6A?style=for-the-badge&logo=react&logoColor=282828)
-![Bootstrap](https://img.shields.io/badge/🎯_Bootstrap-B16286?style=for-the-badge&logo=bootstrap&logoColor=EBDBB2)
-![Android](https://img.shields.io/badge/🤖_Android-98971A?style=for-the-badge&logo=android&logoColor=282828)
+[![Email](https://img.shields.io/badge/yukselozge11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yukselozge11@gmail.com)
 
-</div>
+Found a bug or have an idea for one of my projects? Open an issue, I read them all.
 
-```
-    🦴═══════════════════════════════════════════════════🦴
-```
-
-### ⚙️ Big Rock Movers (Backend & Cloud Shamans)
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/🌿_Node.js-98971A?style=for-the-badge&logo=nodedotjs&logoColor=282828)
-![.NET](https://img.shields.io/badge/🕸️_.NET-B16286?style=for-the-badge&logo=dotnet&logoColor=EBDBB2)
-![Django](https://img.shields.io/badge/🐍_Django-689D6A?style=for-the-badge&logo=django&logoColor=282828)
-![AWS](https://img.shields.io/badge/☁️_AWS-D79921?style=for-the-badge&logo=amazonaws&logoColor=282828)
-![Azure](https://img.shields.io/badge/☁️_Azure-458588?style=for-the-badge&logo=microsoftazure&logoColor=EBDBB2)
-![Google Cloud](https://img.shields.io/badge/☁️_GCloud-D79921?style=for-the-badge&logo=googlecloud&logoColor=282828)
-![Firebase](https://img.shields.io/badge/🔥_Firebase-CC241D?style=for-the-badge&logo=firebase&logoColor=EBDBB2)
-![Docker](https://img.shields.io/badge/🐳_Docker-458588?style=for-the-badge&logo=docker&logoColor=EBDBB2)
-![Linux](https://img.shields.io/badge/🐧_Linux-D79921?style=for-the-badge&logo=linux&logoColor=282828)
-
-</div>
-
-```
-    🦴═══════════════════════════════════════════════════🦴
-```
-
-### 🗄️ Treasure Keepers (Data & Sacred Scrolls)
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/🍃_MongoDB-98971A?style=for-the-badge&logo=mongodb&logoColor=282828)
-![MySQL](https://img.shields.io/badge/🐬_MySQL-458588?style=for-the-badge&logo=mysql&logoColor=EBDBB2)
-![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-458588?style=for-the-badge&logo=postgresql&logoColor=EBDBB2)
-![Git](https://img.shields.io/badge/🌿_Git-CC241D?style=for-the-badge&logo=git&logoColor=EBDBB2)
-![Jupyter](https://img.shields.io/badge/📜_Jupyter-D79921?style=for-the-badge&logo=jupyter&logoColor=282828)
-![Figma](https://img.shields.io/badge/🎨_Figma-B16286?style=for-the-badge&logo=figma&logoColor=EBDBB2)
-![Adobe XD](https://img.shields.io/badge/🎨_XD-B16286?style=for-the-badge&logo=adobexd&logoColor=EBDBB2)
-![Photoshop](https://img.shields.io/badge/🖌️_Photoshop-458588?style=for-the-badge&logo=adobephotoshop&logoColor=EBDBB2)
-
-</div>
-
-```
-      🔥                                            🔥
-     /||\         END OF HUNTING TOOLS              /||\
-    / || \           (Me Strong)                   / || \
-   🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
-```
-
-## 👀 Tribal Stats (How Good Moryel Hunt)
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Moryel&color=D79921&style=for-the-badge&label=TRIBE+VISITORS)
-
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║   👁️  Many eyeball see Moryel cave                ║
-║   🦴  Me collect bones (commit) every sun          ║
-╚════════════════════════════════════════════════════╝
-```
-
-### 🪨 Caveman Wisdom
-
-*"Me no need fancy IDE. Me carve code on stone with pointy stick.*  
-*If code break, me hit with bigger rock until work."*  
-**— Ancient Proverb of Moryel Tribe**
-
-</div>
-
-```
-    🦴═══════════════════════════════════════════════════🦴
-```
-
-## 📨 Send Smoke Signal (Contact Moryel)
-
-<div align="center">
-
-```bash
-caveman@moryel:~$ ./contact_methods.sh
-
-[🔥] Fire Method (Email):
-    ╰─> yukselozge11@gmail.com
-    
-[🏛️] Visit Cave (GitHub):
-    ╰─> github.com/Moryel
-    
-[🦅] Send Bird (Contributions):
-    ╰─> Open for collaboration!
-    ╰─> Me help you build. You bring mammoth meat.
-
-caveman@moryel:~$ echo "Me open to job offers. Pay in shiny rocks accepted."
-```
-
-</div>
-
-```
-     🔥                                              🔥
-    /||\              THANK FOR VISIT                /||\
-   / || \          MAY YOUR CODE COMPILE            / || \
-  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴
-```
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,10,12&height=100&section=footer)
-
-**🦴 Cave Last Updated: When Sun in Sky 🔥**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3c,100:1c1c1e&height=90&section=footer" width="100%" alt="">
