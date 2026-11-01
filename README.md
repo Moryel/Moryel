@@ -39,7 +39,7 @@ sound bar tinted with the album cover's colors. A small standalone menu bar app.
 </td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Moryel/glass-bar/main/gorseller/siri-cubuk.gif" width="100%" alt="GlassBar on the Touch Bar"></td>
+<td><img src="https://raw.githubusercontent.com/Moryel/glass-bar/main/images/siri-bar.gif" width="100%" alt="GlassBar on the Touch Bar"></td>
 <td><img src="https://raw.githubusercontent.com/Moryel/spotiw/main/images/demo.gif" width="100%" alt="Spotiw on the Touch Bar"></td>
 </tr>
 </table>
