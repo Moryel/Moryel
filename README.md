@@ -4,7 +4,7 @@
 
 My main interests are **hardware** and **C++**, which I'm still learning.<br>
 I like building small, native tools that make everyday things a bit nicer, on any platform.<br>
-My two latest projects happen to be for macOS: giving the MacBook Pro Touch Bar the update Apple never shipped.
+Lately that means native macOS apps: two for the MacBook Pro Touch Bar and one that cleans up after the apps you remove.
 
 </div>
 
@@ -17,13 +17,29 @@ My two latest projects happen to be for macOS: giving the MacBook Pro Touch Bar 
 <td width="50%" valign="top">
 
 ### [GlassBar](https://github.com/Moryel/glass-bar)
-A native replacement for the Touch Bar with a Liquid Glass look: app-specific buttons,
-an expanded Control Strip, sliders, F keys, emoji, typing suggestions and a Siri glass
-drop that reacts to your voice.
+The Touch Bar update Apple never shipped. A native replacement with a Liquid Glass look,
+app-specific buttons, an expanded Control Strip, emoji, typing suggestions, themes you
+can write in JSON and a small store for themes and layouts.
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS_14+-000000?style=flat-square&logo=apple&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Moryel/glass-bar?style=flat-square&color=555)
+![Release](https://img.shields.io/github/v/release/Moryel/glass-bar?style=flat-square&color=555)
+
+</td>
+<td width="50%" valign="middle"><img src="https://raw.githubusercontent.com/Moryel/glass-bar/main/images/siri-bar.gif" width="100%" alt="GlassBar on the Touch Bar"></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Leftover](https://github.com/Moryel/leftover) <sup>new</sup>
+Uninstall Mac apps together with the caches, preferences and login items they leave behind.
+Shows why each file belongs to the app, moves only what you pick to the Trash, and every
+step can be undone.
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_13+-000000?style=flat-square&logo=apple&logoColor=white)
+[![Download](https://img.shields.io/badge/Download-Leftover.zip-555?style=flat-square&logo=apple&logoColor=white)](https://github.com/Moryel/leftover/releases/latest/download/Leftover.zip)
 
 </td>
 <td width="50%" valign="top">
@@ -39,7 +55,7 @@ sound bar tinted with the album cover's colors. A small standalone menu bar app.
 </td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Moryel/glass-bar/main/images/siri-bar.gif" width="100%" alt="GlassBar on the Touch Bar"></td>
+<td><img src="https://raw.githubusercontent.com/Moryel/leftover/main/images/apps.png" width="100%" alt="Leftover"></td>
 <td><img src="https://raw.githubusercontent.com/Moryel/spotiw/main/images/demo.gif" width="100%" alt="Spotiw on the Touch Bar"></td>
 </tr>
 </table>
